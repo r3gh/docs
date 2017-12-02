@@ -31,7 +31,7 @@
     - Regressão
 - Dashboard
 
-#Desafios Atacados
+# Desafios Atacados
 -	HeatMap 
 - Twitter Bot ao mesmo tempo 
 - Vários outros bonus
