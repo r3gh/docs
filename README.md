@@ -56,8 +56,10 @@
 - O banco de dados é facilmente extensível
 -	Dados estruturados e curados disponíveis publicamente via API
 
+
 ###	Inteligência Artificial usando o banco de dados
 -	Auxiliar a tomada de decisão para otimizar de alocação de recursos de segurança pública
+- Mensurar a sensação de insegurança
 -	Como? 
     -	Análise visual da mancha criminal plotando um heat map com KDE
     -	Quanto mais quente indica que aquele lugar é mais propenso de ocorrer novas incidências
