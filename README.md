@@ -37,10 +37,6 @@
 - Twitter Bot ao mesmo tempo 
 - Vários outros bonus
 
-# Público Alvo
--	Apoio à tomada de decisão para o COR (dashboard)
--	Dados disponíveis abertamente para a sociedade civil. Novos apps e visualizações podem ser criados 
-
 # Motivação
 -	Muitos crimes não são documentados
 -	Não podem ser utilizados em tempo real para prevenção e melhor utilização de recursos de segurança pública
@@ -66,5 +62,9 @@
 - Predição de incidentes usando Regressão
     -	Input: Bairro, Tipo de crime
     - Output: Dia da semana e faixa de horário em que o tipo de crime deve acontecer
+
+### Público Alvo
+-	Apoio à tomada de decisão para o COR (dashboard)
+-	Dados disponíveis abertamente para a sociedade civil. Novos apps e visualizações podem ser criados 
 
 
