@@ -1,4 +1,4 @@
-# DevOps
+# DevOps & OpenStack
 - Fizemos documentação
 - Criação de canal no Slack para compartilhamento de ideias
 - Integração GitHub-Slack para acompanhamento de progresso paralelo
@@ -14,7 +14,7 @@
      - Instance 
    
 
-# Componentes:
+# Solução
 -	BD
 -	Crawlers:
     -	Tweets estático de usuários que postam sobre violência
@@ -42,7 +42,7 @@
 - Twitter Bot
 
 
-# Proposta de Valor:
+# Proposta de Valor
 ###	Banco de Dados:	
 -	Integrar dados de incidente de segurança pública da cidade do Rio a partir de **diferentes fontes** em tempo real:
     -	Twitter de usuários que postam frequentemente sobre incidente de segurança
@@ -66,5 +66,3 @@
 ### Público Alvo
 -	Apoio à tomada de decisão para o COR (dashboard)
 -	Dados disponíveis abertamente para a sociedade civil. Novos apps e visualizações podem ser criados 
-
-
