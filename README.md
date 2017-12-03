@@ -1,5 +1,5 @@
 # DevOps & OpenStack
-- Fizemos documentação
+- Fizemos documentação e Swagger API
 - Criação de canal no Slack para compartilhamento de ideias
 - Integração GitHub-Slack para acompanhamento de progresso paralelo
 - Automação do Deployment
