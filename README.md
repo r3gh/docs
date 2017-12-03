@@ -32,15 +32,15 @@
     - Regressão
 - Dashboard
 
-# Desafios Atacados
--	HeatMap 
-- Twitter Bot ao mesmo tempo 
-- Vários outros bonus
-
 # Motivação
 -	Muitos crimes não são documentados
 -	Não podem ser utilizados em tempo real para prevenção e melhor utilização de recursos de segurança pública
 -	Apesar de haver diversos Apps que têm os dados, os dados não são estruturados, são desintegrados, indisponíveis para consulta (estruturada) pública via API
+
+### Desafios Atacados
+-	HeatMap 
+- Twitter Bot
+
 
 # Proposta de Valor:
 ###	Banco de Dados:	
